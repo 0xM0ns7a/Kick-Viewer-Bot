@@ -1,0 +1,11 @@
+.venv
+main2.py
+__pycache__
+note.txt
+.machine_id
+.license_data.json
+build
+dist
+*.spec
+output
+C/
